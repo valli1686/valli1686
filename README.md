@@ -2,24 +2,26 @@
 
 ## 👩‍💻 About Me  
 🎓 Currently pursuing Computer Science & Engineering at Aditya University.  
-🌱 Exploring the fields of Full-Stack Development, Python, and Cloud Computing.  
+🌱 Exploring the fields of Full-Stack Development, Python.  
 💡 Passionate about building intelligent systems that make life easier.  
 
 ## 🛠️ My Skills  
-- 💻 Java, Python, and SQL Developer  
-- ☁️ Familiar with Cloud Concepts & Automation Projects  
-- 🌿 Experience with Database Design and PL/SQL Programming  
-- 🧠 Problem Solving | Debugging | Creative Thinking
+💻 Java & Python Programmer
+🗄️ Experience with MySQL and MongoDB Databases
+🧠 Strong in Logic Building | Problem Solving | Debugging
+📘 Knowledge of DSA, DBMS, SQL, and Operating Systems
+🧰 Familiar with VS Code and Git
+🌐 Web Development (HTML, CSS) 
   
 ## 🧩 Tech Stack  
-**Frontend:** HTML | CSS | Bootstrap | React | Flutter  
+**Frontend:** HTML | CSS | Bootstrap | React
 **Backend:** Node.js | Express.js  
-**Database:** MySQL | MongoDB | Oracle SQL  
+**Database:** MySQL | MongoDB  
 **Languages:** Java | Python | JavaScript  
-**Tools & Platforms:** GitHub | VS Code | Postman | Figma  
+**Tools & Platforms:** GitHub | VS Code | Postman
 
 ## 🌈 My Interests  
-✨ Love developing user-friendly web applications and smart automation systems.  
+✨ Love developing user-friendly web applications.  
 📘 Enjoy learning new technologies and experimenting with innovative ideas.  
 🏔 Prefer spending time in the mountains — my source of peace and creativity.  
 
