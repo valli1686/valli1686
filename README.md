@@ -6,12 +6,12 @@
 💡 Passionate about building intelligent systems that make life easier.  
 
 ## 🛠️ My Skills  
-💻 Java & Python Programmer
-🗄️ Experience with MySQL and MongoDB Databases
-🧠 Strong in Logic Building | Problem Solving | Debugging
-📘 Knowledge of DSA, DBMS, SQL, and Operating Systems
-🧰 Familiar with VS Code and Git
-🌐 Web Development (HTML, CSS) 
+- 💻 Java & Python Programmer
+- 🗄️ Experience with MySQL and MongoDB Databases
+- 🧠 Strong in Logic Building | Problem Solving | Debugging
+- 📘 Knowledge of DSA, DBMS, SQL, and Operating Systems
+- 🧰 Familiar with VS Code and Git
+- 🌐 Web Development (HTML, CSS) 
   
 ## 🧩 Tech Stack  
 **Frontend:** HTML | CSS | Bootstrap | React
